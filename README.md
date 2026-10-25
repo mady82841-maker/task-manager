@@ -46,3 +46,10 @@ task-manager/
 
 ## Notes
 This project uses a PHP backend and a MySQL database. It is intended for local development with XAMPP.
+
+## Database Import
+1. Open phpMyAdmin at http://localhost/phpmyadmin/.
+2. Select the Import tab.
+3. Choose the database.sql file.
+4. Click Import to create the database and tasks table.
+
